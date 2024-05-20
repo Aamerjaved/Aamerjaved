@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aamerjaved
-- 👀 I’m interested in data science, Machine Learning, Artificial Intelligence
+- 👀 I’m interested in data science, Machine Learning, Artificial Intelligence, Generative AI
 - 🌱 I’m currently learning Deep learning
 - 💞️ I’m looking to collaborate on Machine Learning Projects
 - 📫 How to reach me aamer.javed.mce@gmail.com
